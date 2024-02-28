@@ -1,0 +1,27 @@
+body{background-image: url("images/chesu.jpg");
+background-size: cover;
+width: 1340px;
+height: 100px;
+      
+}
+ h1{border: 1px solid black;
+    background-color: rgb(10, 122, 85);
+    color: white;
+}
+.box{border: 1px solid black;
+    width: 525px;
+    background-color: rgb(41, 13, 13);
+}
+.wood{border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(216, 216, 107);
+    display: inline-flex;
+}
+.brown{border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    background-color: rgb(41, 13, 13);
+    display: inline-flex;
+
+} 
